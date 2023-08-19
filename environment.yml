@@ -9,7 +9,6 @@ dependencies:
   - mamba=1.4.9
   - matplotlib=3.7.2
   - nbgitpuller=1.2.0
-  - notebook=7.0.2
   - numpy=1.25.2
   - pandas=2.0.3
   - pillow=10.0.0
