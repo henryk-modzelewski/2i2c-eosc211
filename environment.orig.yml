@@ -1,0 +1,19 @@
+name: e211_notebook
+channels:
+  - conda-forge
+dependencies:
+  - bokeh
+  - conda-lock
+  - git
+  - jupyter-resource-usage
+  - jupyterlab
+  - mamba
+  - matplotlib
+  - 
+  - notebook
+  - numpy
+  - pandas
+  - pillow
+  - pip
+  - python
+  -
