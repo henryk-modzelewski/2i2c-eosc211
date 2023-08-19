@@ -5,7 +5,7 @@ dependencies:
   - conda-lock=2.1.2
   - git=2.41.0
   - jupyter-resource-usage=1.0.0
-  - jupyterlab=4.0.5
+  - jupyter=1.0.0
   - mamba=1.4.9
   - matplotlib=3.7.2
   - nbgitpuller=1.2.0
