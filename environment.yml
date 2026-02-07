@@ -15,4 +15,7 @@ dependencies:
   - python
   - setuptools
   - pip:
-    - nbconvert[webpdf]
+    - nbconvert[webpdf]>=7.16.7
+    - urllib3>=2.6.3
+    - brotli>=1.2.0
+    - wheel>=0.46.2
