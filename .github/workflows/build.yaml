@@ -37,6 +37,7 @@ jobs:
         # so all contents put in /home/jovyan are lost. This particularly prevents any 'start' script from
         # working, as it is needed in runtime.
         REPO_DIR: /srv/repo
+        REPO2DOCKER_EXTRA_ARGS: --Repo2Docker.base_image=docker.io/library/buildpack-deps:noble-scm
         #
         # Uncomment and modify the following line with your image name, otherwise no push will happen
         IMAGE_NAME: "henrykmodzelewski/2i2c-eosc211"
